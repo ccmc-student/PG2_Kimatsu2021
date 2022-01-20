@@ -25,4 +25,3 @@
 ## メンバー
 
 - ccmc-ito
-- ccmc-student
